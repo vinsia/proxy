@@ -1,8 +1,9 @@
 vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@xwiuc.paidpork.buzz:26904?headerType=none&type=tcp&encryption=none#usfly-001(VLESS%20motion)
 vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@pojdcx.paidpork.buzz:49254?headerType=none&type=tcp&encryption=none#usfly-001(VLESS%20motionbak)
 vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@any.hmbiplc-02.com:38907?headerType=none&type=tcp&encryption=none#usfly-001(VLESS%20%E5%8D%8A%E6%9C%88%E6%B9%BE)
-vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@usfly-001.fastroute.link:16460?type=tcp&security=none#VLESS%20%2B%20IPLC
+vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@91.216.169.97:16460?type=tcp&security=none#usfly-001
 
 vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@xwiuc.paidpork.buzz:47314?headerType=none&type=tcp&encryption=none#usfly-002(VLESS%20motion)
 vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@pojdcx.paidpork.buzz:50818?headerType=none&type=tcp&encryption=none#usfly-002(VLESS%20motionbak)
 vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@any.hmbiplc-02.com:38867?headerType=none&type=tcp&encryption=none#usfly-002(VLESS%20%E5%8D%8A%E6%9C%88%E6%B9%BE)
+vless://83c18435-d99e-448c-cf5f-b598dd5ddd7a@91.216.169.199:16460?type=tcp&security=none#usfly-002
